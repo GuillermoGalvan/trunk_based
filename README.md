@@ -7,3 +7,7 @@
 ![](images/primercommit2.png)
 
 ![](images/primercommit3.png)
+
+# Varios commits
+
+![](images/varioscommits.pgn)
