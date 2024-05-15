@@ -1,2 +1,2 @@
 console.log("Hola mundo!");
-console.log("se cambia el texto desde la rama 2");
+console.log("este es el cambio que se hizo en la rama 1");
