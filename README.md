@@ -10,4 +10,4 @@
 
 # Varios commits
 
-![](images/varioscommits.pgn)
+![varios commits](https://github.com/GuillermoGalvan/trunk_based/blob/main/images/varioscommits.png)
