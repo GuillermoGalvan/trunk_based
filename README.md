@@ -19,3 +19,17 @@
 ![varios ramas](images/variasramas1.png)
 
 ![varios ramas](images/variasramas2.png)
+
+![varios ramas](images/variasramas3.png)
+
+![varios ramas](images/variasramas4.png)
+
+![varios ramas](images/variasramas5.png)
+
+![varios ramas](images/variasramas6.png)
+
+![varios ramas](images/variasramas7.png)
+
+![varios ramas](images/variasramas8.png)
+
+![varios ramas](images/variasramas9.png)
